@@ -218,9 +218,6 @@ input[type=submit] {
 
 @media only screen and (max-width:640px) {
 
-  header#masthead {
-
-  }
   section.main-section {
     margin-bottom: 40%;
     margin-top: 10%;
